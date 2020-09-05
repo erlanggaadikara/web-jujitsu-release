@@ -1,0 +1,2 @@
+(this["webpackJsonpjjt-web"]=this["webpackJsonpjjt-web"]||[]).push([[13],{629:function(n,t,e){"use strict";e.r(t);var i=e(0),o=e(36);t.default=function(n){var t=n.url;return(0,n.renderWrap)(i.createElement(o.a,{url:t,maxWidth:320,hideCaption:!1,containerTagName:"div",protocol:"",injectScript:!0,onLoading:function(){},onSuccess:function(){},onAfterRender:function(){},onFailure:function(){}}))}}}]);
+//# sourceMappingURL=13.7156fff5.chunk.js.map
